@@ -18,17 +18,17 @@
 
 /* key matrix pins */
 // rigth side row (main)
-#define MATRIX_ROW_PINS { B6, B2, B3, B1, F7, D2 }
+// #define MATRIX_ROW_PINS { B6, B2, B3, B1, F7, D2 }
 // rigth side col (main)
-#define MATRIX_COL_PINS { B4, E6, D7, C6, F6, F5, D1 }
+// #define MATRIX_COL_PINS { B4, E6, D7, C6, F6, F5, D1 }
 // #define MATRIX_COL_PINS { D1, F5, F6, C6, D7, E6, B4 }
 
 // #define DIRECT_PINS_RIGHT { { B6, B2, B3, B1, F7, D2 }, { B4, E6, D7, C6, F6, F5, D1 } }
 
 // left side row (main)
-// #define MATRIX_ROW_PINS { B6, B2, B3, B1, F7, F6 }
+#define MATRIX_ROW_PINS { B6, B2, B3, B1, F7, F6 }
 // left side col (main)
-// #define MATRIX_COL_PINS { F5, D4, C6, D7, E6, B4, B5 }
+#define MATRIX_COL_PINS { F5, D4, C6, D7, E6, B4, B5 }
 
 #define UNUSED_PINS
 
