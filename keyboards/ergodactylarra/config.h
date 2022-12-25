@@ -18,9 +18,9 @@
 
 /* key matrix pins */
 // rigth side row (main)
-#define MATRIX_ROW_PINS { B6, B2, B3, B1, F7, D2 }
+#define MATRIX_ROW_PINS { D4, C6, D7, E6, B4, B5 }
 // rigth side col (main)
-#define MATRIX_COL_PINS { D1, F5, F6, C6, D7, E6, B4 }
+#define MATRIX_COL_PINS { B6, B2, B3, B1, F7, F6 }
 
 
 // left side row (main)
